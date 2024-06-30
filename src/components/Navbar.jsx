@@ -11,10 +11,10 @@ const Navbar = () => {
             <h1 className='text-bold ml-10 text-2xl'>Ak</h1>
         </div>
         <div className='m-8 flex items-center justify-center gap-4 text-2xl'>
-            <FaLinkedin />
-            <FaGithub />
-            <FaTwitter />
-            <FaInstagram />
+        <a href="https://www.linkedin.com/in/aakash-kundu-020437261/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+        <a href="https://github.com/Aakash467" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+        <a href="https://x.com/_AakashKundu" target="_blank" rel="noopener noreferrer"><FaTwitter /></a>
+        <a href="https://www.instagram.com/_aakashkundu/" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
         </div>
     </nav>
   )

@@ -47,10 +47,10 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "Javascript"],
   },
   {
-    title: "Early Flood Detector",
+    title: "Soil Moisture Detector",
    image: project2,
     description:
-      "Developed an IoT project utilizing Arduino and sensors like Ultrasonic sensor and LCD screen to detect flood that ensure safety in the flood prone regions.",
+      "Developed an IoT project utilizing Arduino and sensors like Ultrasonic sensor and LCD screen to detect soil moisture that helps farmer in irrigation.",
     technologies: ["Arduino", "C++", "Ultrasonic sensor"],
   },
   {
